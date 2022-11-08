@@ -17,3 +17,7 @@ napovedu na markdown [najdes na](https://github.com/adam-p/markdown-here/wiki/Ma
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/xLbCLojY2zk/0.jpg)](http://www.youtube.com/watch?v=xLbCLojY2zk)
 
 jak se ma babicka?
+
+## Second paragraph
+
+Some other text here
